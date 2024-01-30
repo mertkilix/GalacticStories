@@ -3,6 +3,17 @@
 ## Overview
 Galactic Stories is a backend service built with Java Spring Boot, designed to support a web and mobile application that allows users to create interactive stories. This service interacts with the OpenAI's ChatGPT API to generate story text, and offers functionalities for text-to-speech conversion and image generation related to the stories.
 
+- [Click to go Front End repository](https://github.com/mertkilix/GalacticStoriesUI)
+
+ <img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/79a78e04-572d-4224-8ee1-12867c383923" width="100">
+
+<img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/a487efb7-f4ae-4ebf-a133-e9e9be913148" width="100">
+
+<img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/dbf71a78-45b6-4776-8f70-b7d19c532773" width="100">
+
+<img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/689c375d-b4eb-4cca-9439-727956ffdda5" width="100">
+
+
 ## Features
 - **Story Generation**: Leverages OpenAI's ChatGPT API to create engaging and dynamic story text based on user input.
 - **Text-to-Speech**: Converts the generated story text into speech using a custom voice, enhancing the user experience.
